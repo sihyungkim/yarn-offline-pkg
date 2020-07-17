@@ -1,0 +1,12 @@
+{
+  "name": "yarn-offline-pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sihyungkim/yarn-offline-pkg.git",
+  "author": "sihyungkim <syungkim.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0"
+  }
+}
